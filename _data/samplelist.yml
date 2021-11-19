@@ -1,0 +1,25 @@
+docs:
+
+# title: The name to show on the nav bar of the site.
+# url: The url to go to when clicked on (can be within site files or a website url).
+# target: How the url is opened (_self is same tab, _blank is in a new tab).
+
+- title: Home
+  url: /
+  target: _self
+
+- title: GitHub
+  url: https://github.com/engteam14/yorkpirates
+  target: _blank
+
+- title: Deliverables
+  url: /deliverables
+  target: _self
+
+- title: Plan
+  url: /plan
+  target: _self
+
+- title: Files
+  url: /files
+  target: _self
