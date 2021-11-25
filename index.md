@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Information/marketing about the project goes here. (Home page)
+![Team Logo](/media/logo.png)
