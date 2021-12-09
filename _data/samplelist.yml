@@ -20,6 +20,10 @@ docs:
   url: /plan
   target: _self
 
+- title: Use Case
+  url: /usecase
+  target: _self
+
 - title: Files
   url: /files
   target: _self
