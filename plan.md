@@ -12,3 +12,6 @@ Weeks are from the start of the project.
 
 ![Week 3](/media/trello_1.png)
 *Week 3*
+
+![Week 4](/media/trello_2.png)
+*Week 4*
