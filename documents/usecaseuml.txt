@@ -1,0 +1,42 @@
+@startuml
+(Starts the game) as (Open)
+(Press start button) as (Start)
+(Press exit button) as (Exit)
+(Moves around) as (Moves)
+(Complete task) as (Task)
+(Fight with college) as (Fight)
+(College is captured) as (Win)
+(Return home and win) as (End)
+(Quits the game early) as (Restart)
+
+Player -- (Open)
+Player -- (Restart)
+(Fight) -- College
+(Win) -- College
+
+(Open) .> (Start)
+(Open) .-> (Exit)
+
+(Start) .-> (Moves)
+
+(Moves) .-> (Task)
+(Moves) .-> (Fight)
+(Moves) -- Points
+
+(Fight) .-> (Win)
+(Fight) .-> (Moves)
+
+(Win) -- Points
+(Win) -- Loot
+(Win) .-> (Moves)
+
+(Task) -- Points
+(Task) -- Loot
+(Task) .-> (Moves)
+
+Loot -- (End)
+
+(End) .> (Open)
+
+(Restart) .> (Open)
+@enduml
