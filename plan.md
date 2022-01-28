@@ -7,6 +7,9 @@ Information about the planning of the project can be found here in the form of G
 Screenshots of our Trello board throughout the project will be listed here, to show how our project plan progressed over time.
 Weeks are from the start of the project.
 
+![Week 1](/media/week1-Planning-Trello.png)
+*Week 1*
+
 ![Week 2](/media/trello_0.png)
 *Week 2*
 
