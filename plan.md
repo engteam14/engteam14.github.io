@@ -27,3 +27,4 @@ During the Implementation stage of our project, we first came up with tasks as s
 ![Week 6](/media/week6-Trello.png)
 *Week 6*
 
+
