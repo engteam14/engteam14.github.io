@@ -5,7 +5,7 @@ During our initial discussion as a group regarding how our game should look like
 
 ![SB1](/media/Storyboard1.PNG)
 *S.B.1*
-
+ 
 ![SB2](/media/Storyboard2.PNG)
 *S.B.2*
 
