@@ -40,7 +40,7 @@ Weeks are from the start of the project.
 ![Week 5](/media/week5-Architecture_Design_and_Implementation-Trello.png)
 *Week 5*
 
-##Implementation
+## Implementation
 During the Implementation stage of our project, we first came up with tasks as shown in the trello above. However, as we moved ahead, we decided that it would be better to have a separate trello just for implementation so that more detailed tasks could be added and chosen by team members to implement. These trello's are shown below:
 
 ![Week 5](/media/Jan%2018th.PNG)
