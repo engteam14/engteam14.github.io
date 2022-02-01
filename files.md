@@ -6,14 +6,18 @@ During our initial discussion as a group regarding how our game should look like
 ![SB1](/media/Storyboard1.PNG)
 *S.B.1*
  
+ 
 ![SB2](/media/Storyboard2.PNG)
 *S.B.2*
+
 
 ![SB3](/media/Storyboard3.PNG)
 *S.B.3*
 
+
 ![SB4](/media/Storyboard4.PNG)
 *S.B.4*
+
 
 
 Based on our storyboards, we then planned how we will transition between different states of the game. We did that using a UML State Diagram as shown below:
