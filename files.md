@@ -20,7 +20,7 @@ During our initial discussion as a group regarding how our game should look like
 
 
 
-Based on our storyboards, we then planned how we will transition between different states of the game. We did that using a UML State Diagram as shown below:
+Based on our storyboards, we then designed a Use Case diagram (as shown in the "Use Case" section on our website"), based of which we then designed a State Diagram to show how we will transition between different states of the game. The UML State Diagram is shown below:
 
 ![State_Diagram](/media/State_Diagram_4.png)
 *UML State Diagram*
