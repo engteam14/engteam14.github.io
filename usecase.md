@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# Use Case
+Below can be found the intended use case for our game.
+
 **Primary Actor**: Prospective student (User)<br/>
 **Supporting actors**: Staff, Ambassadors<br/>
 **Trigger**: Staff offers students the opportunity to play<br/>
