@@ -3,7 +3,7 @@ layout: default
 ---
 Information about the planning of the project can be found here in the form of Gantt Charts and Trello screenshots.
 
-## Gantt Charts
+# Gantt Charts
 
 ![Main](/media/Gantt%20Chart%20for%20Main%20Workflow.png)
 *Main Gantt Chart*
@@ -20,7 +20,8 @@ Information about the planning of the project can be found here in the form of G
 ![Implementation](/media/Gantt%20Chart%20for%20Implementation.png)
 *Implementation Gantt Chart*
 
-## Trello Board 
+# Trello Board 
+## Documentation
 Screenshots of our Trello board throughout the project will be listed here, to show how our project plan progressed over time.
 Weeks are from the start of the project.
 
@@ -39,6 +40,7 @@ Weeks are from the start of the project.
 ![Week 5](/media/week5-Architecture_Design_and_Implementation-Trello.png)
 *Week 5*
 
+##Implementation
 During the Implementation stage of our project, we first came up with tasks as shown in the trello above. However, as we moved ahead, we decided that it would be better to have a separate trello just for implementation so that more detailed tasks could be added and chosen by team members to implement. These trello's are shown below:
 
 ![Week 5](/media/Jan%2018th.PNG)
