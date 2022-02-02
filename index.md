@@ -18,6 +18,9 @@ The game can be [downloaded](https://github.com/engteam14/yorkpirates/releases) 
 
 ## The Game
 
+![Title Screen](/media/Title Screen.gif)
+Application comes with a main screen, where you can enter a name of your choice, start the game, and view our wonderful title graphic!
+
 ## How it Works
 
 ![Team Logo](/media/logo.png)
