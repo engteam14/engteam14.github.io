@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# York Pirates!
+jhsdfhjsdf
 ## Story Boards
 During our initial discussion as a group regarding how our game should look like, we came up with several ideas which are shown in our Story Boards below:
 
