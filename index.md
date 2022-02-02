@@ -21,6 +21,25 @@ The game can be [downloaded](https://github.com/engteam14/yorkpirates/releases) 
 ![Title Screen](/media/Title Screen.gif)
 Application comes with a main screen, where you can enter a name of your choice, start the game, and view our wonderful title graphic!
 
+![Tutorial](/media/Tutorial.gif)
+Our game begins with a tutorial to show even the least inventive player just how to get 100% out of York Pirates!
+
+![Indicators](/media/Indicators.gif)
+In addition to our seamless movement, the game contains indicators so that you're never lost in our wonderfully crafted map environment!
+
+![Combat](/media/Combat.gif)
+![Combat](/media/Combat.gif)
+Engage in fierce and engaging combat against colleges that feature individually processed projectiles to keep you on your toes!
+
+![Game Over](/media/Game Over.gif)
+No punches (or in this case cannonballs) were pulled during the making of this game, and player death is implemented and possible!
+
+![Tasks](/media/Tasks.gif)
+In addition to allowing inferior foes to join your ranks (complete with full image and palette swaps!), defeating colleges and other commendable tasks award you with well-earned loot!
+
+![Game Win](/media/Game Win.gif)
+Once all the colleges are captured and you are as satisfied with the gameplay experience as you are with our code, return to your home college to win the game (and pick our code to win at life)!
+
 ## How it Works
 
 ![Team Logo](/media/logo.png)
