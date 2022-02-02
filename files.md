@@ -37,6 +37,10 @@ Based on our UML State Diagram, we were then able to plan out an Abstract Repres
 
 Once our implementation was complete, we were able to make the Concrete Representation of the architecture of our game using UML CLass Diagrams which is shown below:
 
-### Abstract ###
-![Concrete.R](/media/yorkpiratesUML.png)
+### Concrete ###
+![Concrete](/media/concrete.png)
 *Concrete Architecture Representation using UML*
+![Inheritence](/media/inheritence.png)
+*Concrete Architecture Inheritance using UML*
+![Relationships](/media/relationships.png)
+*Concrete Architecture Relationships using UML*
