@@ -59,7 +59,7 @@ Once all the colleges are captured and you are as satisfied with the gameplay ex
 
 ## The Code
 
-### Sprite2D.UI
+### Scene2D.UI
 
 We use LibGDX Sprite2D's UI system to allow User Interface and Heads Up Display (HUD) to be easily rendered and customised.
 
